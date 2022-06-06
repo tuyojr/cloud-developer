@@ -1,5 +1,7 @@
 # udacity-c2-basic-server
 
+This is written here to understand branch rules
+
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
 ***
